@@ -15,9 +15,6 @@
           <a href="https://github.com/xnors32" target="_blank" class="text-surface-200 hover:text-white transition-colors text-sm">GitHub Profile</a>
         </div>
       </div>
-      <div class="mt-8 pt-8 border-t border-white/5 text-center text-xs text-surface-700">
-        Built with Vue 3 + Tailwind CSS &middot; MIT License
-      </div>
     </div>
   </footer>
 </template>
